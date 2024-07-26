@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.victoriabank.mobilebank",
+      "sha256_cert_fingerprints": [
+        "4D:C5:D7:2B:68:38:7C:5F:3B:AF:B7:54:1C:7D:C1:02:0D:13:29:BC:39:20:CE:7D:C9:F6:DE:17:7B:F6:66:DE"
+      ]
+    }
+  }
+]

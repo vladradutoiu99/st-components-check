@@ -1,0 +1,22 @@
+.App {
+  width: 800px;
+
+  margin: auto;
+}
+
+.rc-dialog {
+  width: 100% !important;
+  height: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  .rc-dialog-content {
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+
+    .rc-dialog-body {
+        padding: 0;
+        display: flex;
+        height: 100%;
+    }
+  }
+}
