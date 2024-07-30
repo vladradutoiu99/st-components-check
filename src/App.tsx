@@ -8,8 +8,6 @@ import {
 } from "@smart-touch-technologies/uicomponents";
 import { DndColumnType } from "@smart-touch-technologies/uicomponents/dist/organisms/Table/DndTable";
 import { Flex, Input } from "antd";
-import documents from "./payload.json";
-
 import "./App.scss";
 import { NameCell } from "./NameCell";
 
